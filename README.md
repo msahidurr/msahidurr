@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Sahidur Rahman
-- 👀 I’m interested in nodejs and php
+- 👀 I’m interested in php and nodejs
 - 🌱 I’m currently learning nodejs typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
